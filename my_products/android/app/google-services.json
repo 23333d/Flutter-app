@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43748369288",
+    "project_id": "buy-it-acc67",
+    "storage_bucket": "buy-it-acc67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43748369288:android:e9310871a8a973a08dd03d",
+        "android_client_info": {
+          "package_name": "com.example.my_products"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO09FfICIO3_z0F3QsfEPBy_lInGCiSrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
